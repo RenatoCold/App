@@ -19,3 +19,13 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+
+<!-- const mensagem = "ola eu"
+{
+    const mensagem = "ola mundo"
+}
+
+console.log(mensagem) 
+
+nesse caso, ele mostraria o ola eu no terminal, pois as chaves {} indicam um novo escopo, ou seja, tudo fora das chaves é considerado global, e tudo dentro, é local. O console.log estava no global, se caso estivesse dentro das chaves, seria exibido o "ola mundo" -->
