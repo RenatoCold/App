@@ -33,3 +33,4 @@ nesse caso, ele mostraria o ola eu no terminal, pois as chaves {} indicam um nov
 ## modulos em node.js 
 --importação de modulos(require, CommonJS)
 --Biblioteca inquirer
+--sempre que usar await, a funcao precisa de um async
